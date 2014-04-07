@@ -81,7 +81,8 @@ Notes from second morning lecture
 		var isCloudy = !isSunny;
 		alert(isCloudy);
 
-		NOTE: === behavior expects to return either True or False.
+		NOTE: === behavior expects to return either True or False.  
+			=== is a comparison operator.  
 		
 		OPERATORS THAT EVALUATE TO BOOLEAN VALUES
 
